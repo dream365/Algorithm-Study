@@ -5,7 +5,10 @@ Brute Force
 #### 1. [백준 2231 분해합](https://www.acmicpc.net/problem/2231)
   -> [answer code](Brute_Force/BJ_2231_분해합/main.cpp)
   
-#### 2. [백준 3085 사탕 게임](https://www.acmicpc.net/problem/3085)
+#### 2. [백준 2503 숫자 야구](https://www.acmicpc.net/problem/2503)
+  -> [answer code](Brute_Force/BJ_2503_숫자_야구/main.cpp)
+  
+#### 3. [백준 3085 사탕 게임](https://www.acmicpc.net/problem/3085)
   -> [answer code](Brute_Force/BJ_3085_사탕_게임/main.cpp)
   
 DFS
