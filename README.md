@@ -18,3 +18,7 @@ DFS
   
 #### 2. [백준 6603 로또](https://www.acmicpc.net/problem/6603)
   -> [answer code](DFS/BJ_6603_로또/main.cpp)  
+  
+#### 3. [백준 10971 외판원 순회 2](https://www.acmicpc.net/problem/10971)
+  -> [answer code](DFS/BJ_10971_외판원_순회_2/main.cpp)  
+
