@@ -21,4 +21,11 @@ DFS
   
 #### 3. [백준 10971 외판원 순회 2](https://www.acmicpc.net/problem/10971)
   -> [answer code](DFS/BJ_10971_외판원_순회_2/main.cpp)  
+  
+#### 4. [백준 10974 모든 순열](https://www.acmicpc.net/problem/10974)
+  -> [answer code](DFS/BJ_10974_모든순열/main.cpp) 
+  
+#### 5. [Algospot PICNIC](https://algospot.com/judge/problem/read/PICNIC)
+  -> [answer code](DFS/AS_PICNIC/main.cpp)  
+ 
 
