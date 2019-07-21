@@ -31,5 +31,8 @@ DFS
 
 Devide And Conquer
 -------------
-#### 1. [백준 2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
+#### 1. [백준 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+  -> [answer code](DevideAndConquer/BJ_1992_쿼드트리/main.cpp)
+
+#### 2. [백준 2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
   -> [answer code](DevideAndConquer/BJ_2630_색종이_만들기/main.cpp)
