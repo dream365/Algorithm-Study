@@ -29,3 +29,7 @@ DFS
   -> [answer code](DFS/AS_PICNIC/main.cpp)  
  
 
+Devide And Conquer
+-------------
+#### 1. [백준 2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
+  -> [answer code](DevideAndConquer/BJ_2630_색종이_만들기/main.cpp)
