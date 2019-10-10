@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <vector>
-using namespace std;
 
 int C, N, M;
 int ans = 0;
@@ -18,13 +16,13 @@ void init() {
     }
 }
 
-void DFS(int idx, int len) {
+void setAnswer(int idx, int len) {
     if(len == N) {
         ans++;
         return;
     }
 
-    for(int i = 0; i < N; i++) {
+    for(int i = idx + 1; i < N; i++) {
         if(!visit[i] && !visit[idx] && isFriend[idx][i]) {
             int nextIdx;
             visit[i] = true;
@@ -36,7 +34,7 @@ void DFS(int idx, int len) {
                     break;
                 }
 
-            DFS(nextIdx, len + 2);
+            setAnswer(nextIdx, len + 2);
 
             visit[i] = false;
             visit[idx] = false;
@@ -60,7 +58,7 @@ int main() {
             isFriend[first][second] = true, isFriend[second][first] = true;
         }
 
-        DFS(0, 0);
+        setAnswer(0, 0);
 
         printf("%d\n", ans);
     }
