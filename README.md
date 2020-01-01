@@ -1,5 +1,10 @@
 # Algorithm-Study
 
+Leet Code
+-------------
+#### 0083. [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+  -> [answer code](Leetcode/0083-remove-duplicates-from-sorted-list/answer.cpp)
+
 Brute Force
 -------------
 #### 1. [백준 2231 분해합](https://www.acmicpc.net/problem/2231)
